@@ -17,7 +17,7 @@ He engages with the developer community through meetups, boot camps, hackathons,
 
 ## &#x1f4c8; GitHub Stats
 
-![Olanetsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=excellence-arch&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Excellence-arch's GitHub stats](https://github-readme-stats.vercel.app/api?username=excellence-arch&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excellence-arch&layout=compact&theme=tokyonight)](https://github.com/excellence-arch)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=excellence-arch)
